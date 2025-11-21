@@ -30,3 +30,6 @@ Data Cleaning & Transformation
 Financial Analysis
 
 Interactive Dashboard Design
+
+Author: Sudipta Kumar Bhowmik(Orko)
+Business Administration – Finance & Banking
