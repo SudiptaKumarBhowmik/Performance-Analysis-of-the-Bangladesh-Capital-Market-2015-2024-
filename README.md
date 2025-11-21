@@ -31,5 +31,11 @@ Financial Analysis
 
 Interactive Dashboard Design
 
+🔗 Live Dashboard
+
+View the interactive Tableau visualization here:
+
+https://public.tableau.com/views/PerformanceAnalysisoftheBangladeshCapitalMarket2015-2024/PerformanceAnalysisoftheBangladeshCapitalMarket2015-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Author: Sudipta Kumar Bhowmik(Orko)
 Business Administration – Finance & Banking
